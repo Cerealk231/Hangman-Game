@@ -190,7 +190,7 @@ def get_random_word():   # Define a function to get a random word from the list
 
 x=0
 y=get_random_word() # Get a random word and store it in a variable
-print(y) # Print the random word (for testing purposes)
+#print(y) Print the random word (for testing purposes)
 
 placeholder = "" # Initialize an empty string to store the correctly guessed letters
 
